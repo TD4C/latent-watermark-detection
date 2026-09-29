@@ -1,0 +1,22 @@
+# PyTorch CUDA 12.4
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+torch==2.6.0+cu124
+torchvision==0.21.0+cu124
+
+# Stable Diffusion / Transformers
+diffusers==0.40.0
+transformers>=4.41,<6
+accelerate>=1.0
+huggingface_hub>=0.30
+safetensors>=0.4
+sentencepiece>=0.2
+
+# GUI / Image / Evaluation
+
+gradio>=5,<7
+numpy>=1.26,<3
+pillow>=10
+pandas>=2.1
+requests>=2.31
+tqdm>=4.66

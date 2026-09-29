@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment / Secrets
+.env
+.env.*
+*.secret
+secrets/
+credentials/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Python tools
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Logs / temporary files
+*.log
+*.tmp
+*.temp
+
+# AI / Hugging Face caches
+.cache/
+.huggingface/
+huggingface/
+models/
+checkpoints/
+
+# Local datasets / generated images
+data/coco/
+data/positive_images/
+data/robustness/
+
+# Generated outputs
+outputs/
+generated/
+tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

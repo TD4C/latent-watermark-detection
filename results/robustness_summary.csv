@@ -1,0 +1,7 @@
+﻿attack,total_samples,successful_analysis,errors,detected_watermark,detection_rate,detection_rate_percent,exact_extraction,exact_extraction_rate,exact_extraction_rate_percent,false_negative_rate,false_negative_rate_percent,avg_confidence,avg_corrected_bits
+JPEG_Q30,50,50,0,47,0.94,94.0,47,0.94,94.0,0.06000000000000005,6.000000000000005,0.5272357646087852,1.66
+RESIZE_256,50,50,0,50,1.0,100.0,50,1.0,100.0,0.0,0.0,0.6303839628779454,0.22
+CROP_80,50,50,0,0,0.0,0.0,0,0.0,0.0,1.0,100.0,0.15650300343089232,8.84
+BLUR_R2,50,50,0,49,0.98,98.0,49,0.98,98.0,0.020000000000000018,2.0000000000000018,0.5747249213988872,0.56
+GAUSSIAN_NOISE,50,50,0,49,0.98,98.0,49,0.98,98.0,0.020000000000000018,2.0000000000000018,0.56587026829297,1.14
+ROTATE_5DEG,50,50,0,0,0.0,0.0,0,0.0,0.0,1.0,100.0,0.17528431005234182,8.7
