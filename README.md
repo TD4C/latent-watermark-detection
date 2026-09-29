@@ -3,27 +3,16 @@
 **Latent-Space Embedding • Stable Diffusion • Verification • Robustness Evaluation**
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.6.0-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
 ![CUDA](https://img.shields.io/badge/CUDA-12.4-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
 ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-v1.5-8A2BE2?style=for-the-badge)
-
 ![DDIM](https://img.shields.io/badge/Diffusion-DDIM-6C63FF?style=for-the-badge)
-
 ![Latent Watermark](https://img.shields.io/badge/Watermark-Latent%20Space%20%7C%20FFT-FF6F00?style=for-the-badge)
-
 ![Hamming](https://img.shields.io/badge/Error%20Correction-Hamming%287%2C4%29-00897B?style=for-the-badge)
-
 ![CRC32](https://img.shields.io/badge/Validation-CRC32-546E7A?style=for-the-badge)
-
 ![Gradio](https://img.shields.io/badge/Interface-Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
-
 ![Evaluation](https://img.shields.io/badge/Evaluation-100%20Samples%20%7C%20300%20Robustness%20Cases-2E7D32?style=for-the-badge)
-
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 ![Status](https://img.shields.io/badge/Status-Completed%20%7C%20Research%20Prototype-success?style=for-the-badge)
 
 
